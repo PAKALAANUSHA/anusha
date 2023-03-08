@@ -1,0 +1,15 @@
+*{
+    padding:0;
+    margin:0;
+}
+.heading{
+    height:50px;
+    width:100vw;
+    background-color: blue;
+    text-align:center;
+}
+.left{
+    width:80%;
+    height:vh;
+    background-color: yellow;
+}
